@@ -1,4 +1,3 @@
-# CSCE377 - Fall 2025 #
 # Kerberos V4 Project #
 
 ## Step 1: Compile the Project
