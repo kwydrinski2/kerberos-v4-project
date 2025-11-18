@@ -1,5 +1,7 @@
 # Kerberos V4 Project #
 
+This project intends to mimick the functionality of a Kerberos V4 Protocol, not to be deployed as a security mechanism for another application.
+
 ## Step 1: Compile the Project
 
 ### Option A: Manual Compilation (Command Line)
